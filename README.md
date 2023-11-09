@@ -1,3 +1,3 @@
 # gitskills
-snuudn1
-xninx1
+# snuudn1
+# xninx1
